@@ -1,6 +1,6 @@
 {
-  "title": "Intro to Patternfly React Table",
-  "description": "Practice building a Patternfly 4 React Table",
+  "title": "Customizing Patternfly React Table",
+  "description": "Practice customizing your Patternfly 4 React Table",
   "difficulty": "beginner",
   "time": "< 30 minutes",
   "details": {
@@ -14,36 +14,24 @@
         "text": "step1.md"
       },
       {
-        "title": "Initialize a basic Table",
+        "title": "Initialize the Table",
         "text": "step2.md"
       },
       {
-        "title": "Express column and row data as objects",
+        "title": "Attach custom properties",
         "text": "step3.md"
       },
       {
-        "title": "Set the table in compact mode",
+        "title": "Customize the table keys",
         "text": "step4.md"
       },
       {
-        "title": "Move your data to an external file",
+        "title": "Create dynamic table keys",
         "text": "step5.md"
       },
       {
-        "title": "Add the Pagination component",
+        "title": "Set and unset basic transforms",
         "text": "step6.md"
-      },
-      {
-        "title": "Add some state properties for pagination",
-        "text": "step7.md"
-      },
-      {
-        "title": "Ensure rows reflect current pagination settings",
-        "text": "step8.md"
-      },
-      {
-        "title": "Cleanup, bugs and lint warnings",
-        "text": "step9.md"
       }
     ],
     "assets": {
@@ -62,15 +50,6 @@
         },
         {
           "file": "step-6-complete.png", "target": "~/tutorial/assets/images/", "chmod": "+r"
-        },
-        {
-          "file": "step-7-complete.png", "target": "~/tutorial/assets/images/", "chmod": "+r"
-        },
-        {
-          "file": "step-8-complete.png", "target": "~/tutorial/assets/images/", "chmod": "+r"
-        },
-        {
-          "file": "step-9-complete.png", "target": "~/tutorial/assets/images/", "chmod": "+r"
         }
       ]
     },

@@ -1,4 +1,4 @@
-Congratulations - you finished the getting started with PatternFly React Table course! 🥳
+Congratulations - you finished the PatternFly React Table course! 🥳
 
 > Learn more about PatternFly React:
 >- [Getting started with PatternFly](https://www.patternfly.org/v4/get-started/developers)
