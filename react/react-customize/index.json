@@ -28,7 +28,7 @@
           "file": "header.js", "target": "/root/src/components/", "chmod": "+r"
         },
         {
-          "file": "toolbar.js", "target": "/root/src/components/", "chmod": "+r"
+          "file": "pageHeaderTools.js", "target": "/root/src/components/", "chmod": "+r"
         },
         {
           "file": "page.js", "target": "/root/src/components/", "chmod": "+r"
