@@ -14,7 +14,7 @@ It should look like this:
 
 Change the variant to achieve different types of buttons.
 
-Inside the `CardFooter` component, replace the current variant on the button with the `primary` variant, and remove the `isLine` property.
+Inside the `CardFooter` component, replace the current variant on the button with the `primary` variant, and remove the `isInline` property since it's only relevant for buttons with variant of "link".
 
 The code should look like the following:
 
