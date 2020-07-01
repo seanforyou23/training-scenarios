@@ -1,8 +1,8 @@
 Next modify the cards.
 
-1) <strong>Add a hover effect to the `card` component.</strong>
+1) <strong>Add a hover effect to the `Card` component.</strong>
 
-PatternFly components, including `card`, can be customized with properties. Add a hover effect to the cards with the `isHoverable` property.
+PatternFly components, including `Card`, can be customized with properties. Add a hover effect to the cards with the `isHoverable` property.
 
 It should look like this:
 
@@ -12,7 +12,7 @@ It should look like this:
 
 2) <strong>Make the card selectable.</strong>
 
-Locate the `Card` component and add a new property `isSelectable` to allow selection of individual cards.
+Further extend the `Card` component by adding a new property `isSelectable` to allow selection of individual cards.
 
 The opening tag for the Card component should now look like the following:
 

@@ -66,7 +66,7 @@ Add the gallery inside of `<AppPage>`, it should look like this:
 
 4) <strong>Add multiple cards inside of the gallery.</strong>
 
-For the purpose of this example, make every card the same. Each `card` should be wrapped in a `<GalleryItem>`.
+For the purpose of this example, make every card the same. Each `Card` should be wrapped in a `GalleryItem`.
 
 ```
 <GalleryItem>
